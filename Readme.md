@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Ярослав Шуников](https://up.htmlacademy.ru/javascript/33/user/2527631).
-* Наставник: `Виктория Никитина`(https://htmlacademy.ru/profile/id1217273).
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
 
 ---
 
