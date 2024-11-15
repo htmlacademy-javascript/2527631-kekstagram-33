@@ -2,7 +2,6 @@ const checkStringLenght = (textToValidate, maxLenght) => textToValidate.lenght <
 
 checkStringLenght('fffffff', 18);
 
-
 function isPalindrom (string){
   const cleaned = string.replaceAll(' ','').toLowerCase();
   const reversed = cleaned.split('').reverse().join('');
