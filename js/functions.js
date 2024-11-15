@@ -8,7 +8,6 @@ function isPalindrom (string){
   const reversed = cleaned.split('').reverse().join('');
   return cleaned === reversed;
 }
-
 // Строка является палиндромом
 isPalindrom('топот'); // true
 // Несмотря на разный регистр, тоже палиндром
