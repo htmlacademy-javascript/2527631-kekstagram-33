@@ -1,6 +1,6 @@
 const checkStringLenght = (textToValidate, maxLenght) => textToValidate.lenght <= maxLenght;
 
-console.log(checkStringLenght('fffffff', 18));
+checkStringLenght('fffffff', 18);
 
 
 function isPalindrom (string){
@@ -10,9 +10,9 @@ function isPalindrom (string){
 }
 
 // Строка является палиндромом
-console.log(isPalindrom('топот')); // true
+isPalindrom('топот'); // true
 // Несмотря на разный регистр, тоже палиндром
-console.log(isPalindrom('ДовОд')); // true
+isPalindrom('ДовОд'); // true
 // Это не палиндром
-console.log(isPalindrom('Кекс')); // false
-console.log(isPalindrom('Лёша на полке клопа нашёл')); //true
+isPalindrom('Кекс'); // false
+isPalindrom('Лёша на полке клопа нашёл'); //true
